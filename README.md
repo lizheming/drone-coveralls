@@ -4,7 +4,6 @@
 
 
 [![BuildStatus](https://cat.eming.li/api/badges/lizheming/drone-coveralls/status.svg)](https://cat.eming.li/lizheming/drone-coveralls)
-[![Coverage Status](https://coveralls.io/repos/github/lizheming/drone-coveralls/badge.svg?branch=master)](https://coveralls.io/github/lizheming/drone-coveralls?branch=master)
 [![Docker Pulls](https://img.shields.io/docker/pulls/lizheming/drone-coveralls.svg)]()
 [![](https://images.microbadger.com/badges/image/lizheming/drone-coveralls.svg)](https://microbadger.com/images/lizheming/drone-coveralls)
 

@@ -1,4 +1,4 @@
-![logo](coveralls.svg)
+<img src="coveralls.svg" alt="logo" style="max-width:240px" />
 
 # drone-coveralls
 

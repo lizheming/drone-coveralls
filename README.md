@@ -1,4 +1,4 @@
-<img src="coveralls.svg" alt="logo" style="max-width:240px" />
+<img src="coveralls.svg" alt="logo" width="240"/>
 
 # drone-coveralls
 

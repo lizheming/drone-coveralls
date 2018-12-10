@@ -12,5 +12,5 @@ steps:
     repo: lizheming/drone-coveralls
     when:
       event: tag
-    branches:
+      branch:
       - master

@@ -21,7 +21,7 @@ for file in $(echo $files | tr -d '[[:space:]]' | tr "," "\n"); do
       vfiles="$vfiles -f $PWD/$file"
       
       echo "-- Sending $file to Coveralls.io --"
-      eval 'cat $PWD/$file | ./node_modules/coveralls/bin/coveralls.js'
+      eval 'cat $PWD/$file | coveralls'
     fi
 done
 
